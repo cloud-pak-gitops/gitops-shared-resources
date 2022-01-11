@@ -1,0 +1,1 @@
+# gitops-shared-resources
